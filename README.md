@@ -1,5 +1,6 @@
 # JWT_Implementation.NET
 Step-by-step description
+Click the raw button to increase readibility...
 JWT Implementation API
 
 A simple ASP.NET Core Web API project demonstrating JWT authentication and CRUD operations on an Employee resource using Entity Framework Core and SQL Server.
